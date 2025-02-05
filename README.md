@@ -158,62 +158,52 @@ model.fit(X_train_scaled, y_train, epochs=10, batch_size=32, validation_data=(X_
 시험에서는 **AI 모델링 프로세스(데이터 분석, 전처리, 모델링) 전반을 이해하고 구현하는 능력**이 요구됩니다.
 
 📌 **시험 대비 핵심 개념**  
-✅ **데이터 처리 및 비시각화 분석 : pandas의 주요 함수 (`groupby`, `merge`, `fillna`, `drop` 등) 활용법 숙지**  
-✅ **데이터 시각화 분석 : matplotlib & seaborn으로 그래프 생성 흐름 (figure → plot → show) 익히기**  
-✅ **데이터 전처리 : scikit-learn의 일관성 이해 (객체 생성 → `fit()` → `transform()`)**  
-✅ **머신러닝 & 딥러닝 모델의 전반적인 구현 프로세스 이해 (모델 정의(및 컴파일) → 모델 학습 → 모델 평가)**  
+✅ **데이터 처리 및 비시각화 분석** : pandas의 주요 함수 (`groupby`, `merge`, `fillna`, `drop` 등) 활용법 숙지  
+✅ **데이터 시각화 분석** : matplotlib & seaborn으로 그래프 생성 흐름 (`figure` → `plot` → `show`) 익히기  
+✅ **데이터 전처리** : scikit-learn의 일관성 이해 (`객체 생성` → `fit()` → `transform()`)  
+✅ **머신러닝 & 딥러닝 모델의 전반적인 구현 프로세스 이해** (`모델 정의(및 컴파일)` → `모델 학습` → `모델 평가`)
 
 시험은 실습 코드에 포함되지 않은 내용도 출제될 수 있으므로,  
 **단순히 코드를 외우기보다 AI 구현 프로세스를 전반적으로 이해하는 것이 중요합니다!** 🚀  
 
 ---
 
-## **📢 더에이아이랩(The AI Lab) 강의 안내**  
+### **📢 AICE BASIC vs AICE Associate 비교**
+<table>
+  <tr align="center">
+    <th>구분</th>
+    <th>AICE BASIC</th>
+    <th>AICE Associate</th>
+  </tr>
+  <tr align="center">
+    <td><strong>대상</strong></td>
+    <td>비전공자, 기초 학습자</td>
+    <td>Python으로 실질적인 AI 구현 프로세스를 학습하고자 하는 자</td>
+  </tr>
+  <tr align="center">
+    <td><strong>코딩 여부</strong></td>
+    <td>🟢 <strong>Python 없이</strong> 🟢데이터 분석 및 모델링 실습 가능</td>
+    <td>🔵 <strong>Python 기반</strong> 🔵으로 데이터 분석 및 모델 구현</td>
+  </tr>
+  <tr align="center">
+    <td><strong>학습 난이도</strong></td>
+    <td><strong>초급</strong> (기초 AI 개념 및 실습)</td>
+    <td><strong>중급</strong> (실제 AI 모델 구현)</td>
+  </tr>
+  <tr align="center">
+    <td><strong>배지</strong></td>
+    <td><img src="https://github.com/TheAILab-CodingX/AICE-Associate/blob/main/images/%E1%84%87%E1%85%A2%E1%84%8C%E1%85%B5_BASIC.png" width="120"></td>
+    <td><img src="https://github.com/TheAILab-CodingX/AICE-Associate/blob/main/images/%E1%84%87%E1%85%A2%E1%84%8C%E1%85%B5_Asso.png" width="120"></td>
+  </tr>
+  <tr align="center">
+    <td><strong>공인교육기관</strong></td>
+    <td colspan="3"><strong><img src="https://github.com/TheAILab-CodingX/AICE-Associate/blob/main/images/logo_theailab.png" width="150"></strong></td>
+  </tr>
+</table>
 
-더에이아이랩(The AI Lab)에서는 **KT AICE 자격시험(AICE BASIC, AICE Associate) 대비를 위한 온라인 강의 VOD**를 제공합니다.  
-각 과정은 **AI 구현 프로세스(데이터 분석, 전처리, 모델링)를 단계별로 학습**할 수 있도록 구성되어 있으며,  
-**시험 범위를 집중적으로 다루고, 실전 대비 실습을 포함**하여 **단순 개념 학습이 아닌 실전 문제 해결 능력을 키우는 데 초점**을 맞추고 있습니다.  
-
----
-
-### **📌 AICE BASIC 강의 소개**  
-📌 **AICE BASIC 자격시험**은 **🟡Python 없이🟡 AI 구현 프로세스를 실습하고 평가받을 수 있는 시험**입니다.  
-- **AI 모델링에 대한 기본 개념을 이해하고, GUI 기반의 AI 실습을 통해 원리를 익히는 과정**  
-- **비전공자도 AI 모델링 프로세스를 쉽게 학습할 수 있도록 설계**  
-- **코딩 없이 AI 모델을 실습하고, 실제 데이터로 적용하는 법을 학습 가능**  
-
-✅ **AICE BASIC 강의에서 배우는 내용:**  
-✔ **AI 모델링 프로세스(데이터 분석 → 전처리 → 모델링 → 평가)**  
-✔ **클릭 기반 GUI 환경에서 머신러닝 및 딥러닝 모델 구축 실습**  
-✔ **AICE BASIC 시험에서 출제되는 주요 개념 정리 및 실습 문제 풀이**  
 
 🔗 **[AICE BASIC 자격시험 대비 강의 VOD 구매하기](https://coding-x.com/class/15224/KT-AICE-BASIC-%EC%A2%85%ED%95%A9-(%EC%9D%B4%EB%A1%A0+%EC%8B%A4%EC%8A%B5))** 🚀  
-
----
-
-### **📌 AICE Associate 강의 소개**  
-📌 **AICE Associate 자격시험**은 **🔵Python을 활용🔵하여 AI 구현 프로세스를 실습하고 평가받는 시험**입니다.  
-- **데이터 분석부터 머신러닝/딥러닝 모델링까지 전반적인 AI 구현 역량을 평가**  
-- **실제 프로젝트에서 활용할 수 있는 AI 모델 구현 실습 포함**  
-- **시험과 유사한 문제를 실습하며, 실전 감각을 익히는 과정**  
-
-✅ **AICE Associate 강의에서 배우는 내용:**  
-✔ **데이터 분석 및 시각화 (`pandas`, `matplotlib`, `seaborn`)**  
-✔ **데이터 전처리 (`scikit-learn` 활용한 스케일링, 인코딩, 결측치 처리)**  
-✔ **머신러닝 모델 구현 (`RandomForest`, `XGBoost`, `LightGBM` 등)**  
-✔ **딥러닝 모델 구현 (`TensorFlow/Keras` 활용한 신경망 구축)**  
-✔ **하이퍼파라미터 튜닝 및 모델 최적화 (`GridSearchCV`, `EarlyStopping`)**  
-
 🔗 **[AICE Associate 자격시험 대비 강의 VOD 구매하기](https://coding-x.com/class/15247/KT-AICE-ASSOCIATE-%EC%A2%85%ED%95%A9-(%EC%9D%B4%EB%A1%A0-+-%EC%8B%A4%EC%8A%B5))** 🚀  
-
----
-
-### **📢 AICE BASIC vs AICE Associate 비교**
-| **구분** | **AICE BASIC** | **AICE Associate** |
-|-----------|----------------|--------------------|
-| **대상** | 비전공자, 기초 학습자 | Python으로 실질적인 AI 구현 프로세스를 학습하고자 하는 자 |
-| **코딩 여부** | Python 없이 데이터 분석 및 모델링 실습 가능 | Python 기반으로 데이터 분석 및 모델 구현 |
-| **학습 난이도** | 초급 (기초 AI 개념 및 실습) | 중급 (실제 AI 모델 구현) |
 
 ---
 
