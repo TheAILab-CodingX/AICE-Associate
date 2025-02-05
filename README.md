@@ -197,7 +197,7 @@ model.fit(X_train_scaled, y_train, epochs=10, batch_size=32, validation_data=(X_
   </tr>
   <tr align="center">
     <td><strong>공인교육기관</strong></td>
-    <td colspan="3"><strong><img src="https://github.com/TheAILab-CodingX/AICE-Associate/blob/main/images/logo_theailab.png" width="150"></strong></td>
+    <td colspan="2"><strong><img src="https://github.com/TheAILab-CodingX/AICE-Associate/blob/main/images/logo_theailab.png" width="150"></strong></td>
   </tr>
 </table>
 
