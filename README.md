@@ -167,8 +167,8 @@ model.fit(X_train_scaled, y_train, epochs=10, batch_size=32, validation_data=(X_
 **단순히 코드를 외우기보다 AI 구현 프로세스를 전반적으로 이해하는 것이 중요합니다!** 🚀  
 
 ---
-
-### **📢 AICE BASIC vs AICE Associate 비교**
+## **📢 더에이아이랩(The AI Lab) 강의 안내**  
+### **✔ AICE BASIC vs AICE Associate 비교**
 <table>
   <tr align="center">
     <th>구분</th>
