@@ -12,7 +12,7 @@
 또한, **더에이아이랩(The AI Lab)에서는 AICE Associate 자격시험 준비를 위한 강의 VOD도 제공**하고 있습니다.  
 **자격증 대비 강의가 필요하신 분들은 아래 링크를 통해 확인해 주세요.**  
 
-🔗 **[AICE Associate 자격시험 대비 강의 VOD 구매하기](#)** 🚀 (https://coding-x.com/class/15247/KT-AICE-ASSOCIATE-%EC%A2%85%ED%95%A9-(%EC%9D%B4%EB%A1%A0-+-%EC%8B%A4%EC%8A%B5))
+🔗 **[AICE Associate 자격시험 대비 강의 VOD 구매하기](https://coding-x.com/class/15247/KT-AICE-ASSOCIATE-%EC%A2%85%ED%95%A9-(%EC%9D%B4%EB%A1%A0-+-%EC%8B%A4%EC%8A%B5))** 🚀 
 
 ---
 
@@ -174,8 +174,7 @@ AICE Associate 자격시험 대비를 위해 **더에이아이랩(The AI Lab)에
 ✔ **실제 시험과 유사한 실습 코드 제공**  
 ✔ **AI 모델링의 전반적인 개념과 구현 방법 정리**  
 
-🔗 **[AICE Associate 자격시험 대비 강의 VOD 구매하기](#)** 🚀 (https://coding-x.com/class/15247/KT-AICE-ASSOCIATE-%EC%A2%85%ED%95%A9-(%EC%9D%B4%EB%A1%A0-+-%EC%8B%A4%EC%8A%B5))
-
+🔗 **[AICE Associate 자격시험 대비 강의 VOD 구매하기](https://coding-x.com/class/15247/KT-AICE-ASSOCIATE-%EC%A2%85%ED%95%A9-(%EC%9D%B4%EB%A1%A0-+-%EC%8B%A4%EC%8A%B5))** 🚀 
 ---
 
 📌 **이 저장소가 도움이 되셨다면, GitHub ⭐ Star를 눌러주세요!** 😊 🚀
